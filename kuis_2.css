@@ -1,0 +1,22 @@
+.header {
+	height:50px;
+	background-color: black;
+	color: white;
+}
+.box-left {
+	width: 50px;
+	background-color: red;
+}
+.box-left ul{
+	text-decoration: none;
+}
+.box-right{
+	margin-left: 300px;
+	float: right;
+}
+.footer {
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
